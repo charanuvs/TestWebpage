@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/charanuvs/TestWebpage/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [Contact me](https://charanuvs.github.io/TestWebpage/Contact)
+[HTML](https://charanuvs.github.io/TestWebpage/test)
+[HTML](https://charanuvs.github.io/TestWebpage/test.html)
 
 ![Image](https://charanuvs.github.io/TestWebpage/file-20180627-112641-idgmo2.jpg)
 
