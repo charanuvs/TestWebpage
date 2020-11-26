@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Contact me](https://charanuvs.github.io/TestWebpage/Contact)
 
+![Image](https://charanuvs.github.io/TestWebpage/file-20180627-112641-idgmo2.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
